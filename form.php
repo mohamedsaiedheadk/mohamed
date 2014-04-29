@@ -9,7 +9,9 @@
 
 
 <input type = 'text' name = 'name' value ='ENTER YOUR NAME'/>
+
 <input type= "text"  name = 'age' value = "ENTER YOUR AGE" />
+
 <input type= "text" name = 'address' value ='ENTER YOUR ADDREES'  />
 <input type = "submit"  />
 
